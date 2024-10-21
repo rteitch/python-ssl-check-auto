@@ -2,11 +2,11 @@
 
 1. make sure you was installed python3
 2. Create files ```domains.txt```
-   ```
+   
 3. on domains.txt input domain what you want make separate with new line, example :
+```
 google.com
-facebook.com
-   ```
+facebook.com```
 4. make file ``` run.py ```Copy paste this code
 ```python
 import subprocess
